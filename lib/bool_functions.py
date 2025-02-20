@@ -1,2 +1,5 @@
 def return_true():
-    return False
+    """
+    This function should return True.
+    """
+    return True

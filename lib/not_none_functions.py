@@ -1,2 +1,5 @@
 def return_not_none():
-    return None
+    """
+    This function should return a value that is not None.
+    """
+    return "I am not None"
